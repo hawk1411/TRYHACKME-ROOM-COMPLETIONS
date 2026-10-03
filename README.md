@@ -2,3 +2,4 @@
 ![Broken Authentication](BROKEN%20AUTHENTICATION.png)
 ![Command Injection Completed](command%20injection%20revised.png)
 ![API Pentesting Completed](api%20pentesting%20foundations.png)
+![Identity and Access Management Completed](iam.png)
