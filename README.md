@@ -3,3 +3,4 @@
 ![Command Injection Completed](command%20injection%20revised.png)
 ![API Pentesting Completed](api%20pentesting%20foundations.png)
 ![Identity and Access Management Completed](iam.png)
+![JWT Security Completed](image_7cd702.png)
